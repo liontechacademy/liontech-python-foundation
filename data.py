@@ -12,7 +12,7 @@ print(len(Names))
 Country   =   "Nigeria"
 print (Country[4])  
 
-# Looping through string
+# Looping through strings
 
 Name   =    "elviseeessiiissssss"
 for    e  in  "Name":
